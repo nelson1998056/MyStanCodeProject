@@ -29,7 +29,9 @@ def main():
     move()
     put_beeper()
     move()
-
+"""
+從最一開始的一個一個把指令串接起來，完成一開始Karel的任務，將beeper放在台上。
+"""
 
 # ----- DO NOT MODIFY CODE BELOW THIS LINE ----- #
 if __name__ == '__main__':
