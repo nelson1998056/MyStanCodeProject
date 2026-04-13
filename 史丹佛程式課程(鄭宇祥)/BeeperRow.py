@@ -21,7 +21,8 @@ while front_is_clear():
     move()
 put_beeper()
 """
-當Karel前面沒有障礙物時 會一直往前走直到碰到牆壁
+當Karel前面沒有障礙物時 
+會一直往前走直到碰到牆壁
 """
 
 # ----- DO NOT MODIFY CODE BELOW THIS LINE ----- #
