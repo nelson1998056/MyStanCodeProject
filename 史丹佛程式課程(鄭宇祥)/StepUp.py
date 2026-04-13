@@ -30,7 +30,8 @@ def put_99():
         put_beeper()
     move()
 """
-為了省去每次都要寫put_beeper的時間，所以加入for迴圈讓Karel放置特定數量的beeper。
+為了省去每次都要寫put_beeper的時間
+所以加入for迴圈讓Karel放置特定數量的beeper。
 """
 
 
