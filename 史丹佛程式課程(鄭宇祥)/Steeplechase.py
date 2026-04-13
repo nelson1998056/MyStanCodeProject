@@ -2,7 +2,6 @@
 File: Steeplechase.py
 Name: 鄭宇祥:
 ---------------------------------
-鄭宇祥:
 """
 
 from karel.stanfordkarel import *
