@@ -21,7 +21,9 @@ def main():
     pass
 while front_is_clear():
     move()
-
+"""
+當Karel前方沒有偵測到物體時，Karel會一直往前，直到最後碰到牆壁。
+"""
 
 # ----- DO NOT MODIFY CODE BELOW THIS LINE ----- #
 if __name__ == '__main__':
