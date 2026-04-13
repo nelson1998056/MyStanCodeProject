@@ -1,6 +1,6 @@
 """
 File: StepUp.py
-Name: Answer
+Name: 鄭宇祥
 ------------------------
 This program demonstrates how Karel picks up a beeper
 at Street 1 Avenue 2 and moves it to Street 2 Avenue 4.
