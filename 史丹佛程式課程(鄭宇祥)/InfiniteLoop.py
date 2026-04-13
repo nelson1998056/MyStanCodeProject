@@ -1,6 +1,6 @@
 """
 File: InfiniteLoop.py
-Name:
+Name:鄭宇祥
 ------------------------
 This program demonstrates the idea of an
 infinite loop.
