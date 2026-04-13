@@ -23,7 +23,8 @@ def main():
         turn_left()
 """
 如果當karel前面沒有障礙物時，則左轉。
-但由於每次左轉後的前方都沒有障礙物，導致Karel一直無限迴轉，形成無限loop。
+但由於每次左轉後的前方都沒有障礙物，
+導致Karel一直無限迴轉，形成無限loop。
 """
 
 # ----- DO NOT MODIFY CODE BELOW THIS LINE ----- #
