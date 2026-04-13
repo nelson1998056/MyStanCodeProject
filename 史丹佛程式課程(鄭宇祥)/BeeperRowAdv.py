@@ -29,7 +29,7 @@ while front_is_clear():
 if not on_beeper():
     put_beeper()
     """
-    當Karel站在beeper上時，往前走。但如果沒有站在beeper上時則放置beeper，
+    當Karel站在beeper上時，往前走。但如果沒有站在beeper上時則放置beeper。
     """
 ####### DO NOT EDIT CODE BELOW THIS LINE ########
 
